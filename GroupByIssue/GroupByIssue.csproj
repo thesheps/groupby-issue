@@ -7,7 +7,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.14" />
     <PackageReference Include="Microsoft.AspNetCore.OData" Version="7.5.7" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.5" />
   </ItemGroup>
 
   <ItemGroup>
